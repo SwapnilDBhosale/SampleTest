@@ -6,6 +6,7 @@ public class JavaSampleTwo {
 		// TODO Auto-generated method stub
 		System.out.println("ABCD");
 
+	
 	}
 
 }
